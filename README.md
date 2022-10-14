@@ -7,3 +7,7 @@ Some instances of Windows 10+ machines have a local internet connectivity but ei
 # How To Use
 - Run `LocalNSCI.exe`
 - Edit your hostfile to point `http://www.msftconnecttest.com/` to `127.0.0.1` or the local IP of a computer running said server.
+
+## Dependencies
+For license information, please check their website and/or repository page
+- [cpp-httplib](https://github.com/yhirose/cpp-httplib) - Single header http(s) request library
